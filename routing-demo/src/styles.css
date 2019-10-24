@@ -1,0 +1,7 @@
+nav button.active{
+color : blue;
+}
+.items li.selected {
+    background-color: red;
+    color: white
+}

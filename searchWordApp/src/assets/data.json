@@ -1,0 +1,963 @@
+{ 
+    "wordInformation":{ 
+       "word":"world",
+       "frequency":178897,
+       "documentFrequency":141372,
+       "absoluteRank":649,
+       "relativeRank":0.02596,
+       "vocabularySize":2500000,
+       "additionalInformation":{ 
+          "link":"https://en.wikipedia.org/wiki/World"
+       }
+    },
+    "semanticallySimilarWords":[ 
+ 
+    ],
+    "leftSideNeighbours":[ 
+       { 
+          "word":"the fashion",
+          "forWord":"world",
+          "strength":0.21571907
+       },
+       { 
+          "word":"the outside",
+          "forWord":"world",
+          "strength":0.17265089
+       },
+       { 
+          "word":"square kilometers",
+          "forWord":"world",
+          "strength":0.12722047
+       },
+       { 
+          "word":"bbc news",
+          "forWord":"world",
+          "strength":0.12149463
+       },
+       { 
+          "word":"douse",
+          "forWord":"world",
+          "strength":0.11805538
+       },
+       { 
+          "word":"exempting",
+          "forWord":"world",
+          "strength":0.115219265
+       },
+       { 
+          "word":"mig",
+          "forWord":"world",
+          "strength":0.112120435
+       },
+       { 
+          "word":"the ghetto",
+          "forWord":"world",
+          "strength":0.11103238
+       },
+       { 
+          "word":"mustaches",
+          "forWord":"world",
+          "strength":0.109701775
+       },
+       { 
+          "word":"first downs",
+          "forWord":"world",
+          "strength":0.109305374
+       }
+    ],
+    "rightSideNeighbours":[ 
+       { 
+          "word":"renowned",
+          "forWord":"world",
+          "strength":0.14536895
+       },
+       { 
+          "word":"cooking spray",
+          "forWord":"world",
+          "strength":0.11848185
+       },
+       { 
+          "word":"heavyweight champion",
+          "forWord":"world",
+          "strength":0.117953904
+       },
+       { 
+          "word":"t20",
+          "forWord":"world",
+          "strength":0.11582643
+       },
+       { 
+          "word":"outrages",
+          "forWord":"world",
+          "strength":0.111535616
+       },
+       { 
+          "word":"war ii",
+          "forWord":"world",
+          "strength":0.111419104
+       },
+       { 
+          "word":"mulvihill",
+          "forWord":"world",
+          "strength":0.11118212
+       },
+       { 
+          "word":"shut this window",
+          "forWord":"world",
+          "strength":0.11095499
+       },
+       { 
+          "word":"number two",
+          "forWord":"world",
+          "strength":0.110622056
+       },
+       { 
+          "word":"inflation rates",
+          "forWord":"world",
+          "strength":0.110073134
+       }
+    ],
+    "associations":[ 
+ 
+    ],
+    "stringSimilarWords":[ 
+       { 
+          "word":"worlds",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"worlda",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"worl",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"wourld",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"word",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world's",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"worldly",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"worldin",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"wold",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"wolrd",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"iworld",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"_world",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"eworld",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"worli",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"words",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"wordt",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"wordy",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"worde",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"wor",
+          "forWord":"world",
+          "strength":0.0
+       }
+    ],
+    "startsWithWords":[ 
+       { 
+          "word":"worldwide",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world's",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world's largest",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"worlds",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world-class",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world's leading",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world's biggest",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world's best",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"worldwide shipping",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world-renowned",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world-wide",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"worldly",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world-famous",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world's population",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world-leading",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world's oldest",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world's worst",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"worldbuilding",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world's most expensive",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world's fastest",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world's fastest growing",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world's most famous",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world's most powerful",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"worldpay",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world's smallest",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world's richest",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world's oceans",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world's most populous",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world's longest",
+          "forWord":"world",
+          "strength":0.0
+       }
+    ],
+    "endsWithWords":[ 
+       { 
+          "word":"real-world",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"the underworld",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"underworld",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"vmworld",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"westworld",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"homeworld",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"astroworld",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"open-world",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"seaworld",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"businessworld",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"yoworld",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"discworld",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"old-world",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"macworld",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"overworld",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"helloworld",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"out-of-this-world",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"oneworld",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"dreamworld",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"cryptoworld",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"forenworld",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"computerworld",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"busworld",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"netherworld",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"first-world",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"eddsworld",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"third-world",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"freshersworld",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"transworld",
+          "forWord":"world",
+          "strength":0.0
+       }
+    ],
+    "nGrams":[ 
+       { 
+          "word":"the world",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"to the world",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"the world cup",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"across the world",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"this world",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world war ii",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"the real world",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"in this world",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"entire world",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"the whole world",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"our world",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world of tanks",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"for the world",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world champion",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world war",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world series",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world class",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world wide web",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world of warcraft",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"real world",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"new world",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"the world bank",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world wide",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world championship",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world championships",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"change the world",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"as the world",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world leaders",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"world market",
+          "forWord":"world",
+          "strength":0.0
+       },
+       { 
+          "word":"save the world",
+          "forWord":"world",
+          "strength":0.0
+       }
+    ],
+    "semanticallySimilarWordFilaments":[ 
+       { 
+          "labels":[ 
+             { 
+                "label":"war ii",
+                "type":"RIGHT"
+             },
+             { 
+                "label":"championship",
+                "type":"RIGHT"
+             }
+          ],
+          "words":[ 
+             { 
+                "word":"women's world",
+                "forWord":"world",
+                "strength":0.2553026
+             },
+             { 
+                "word":"his world",
+                "forWord":"world",
+                "strength":0.19776699
+             },
+             { 
+                "word":"her world",
+                "forWord":"world",
+                "strength":0.19646806
+             },
+             { 
+                "word":"saff",
+                "forWord":"world",
+                "strength":0.17005256
+             },
+             { 
+                "word":"pga",
+                "forWord":"world",
+                "strength":0.1604955
+             },
+             { 
+                "word":"world junior",
+                "forWord":"world",
+                "strength":0.15324032
+             },
+             { 
+                "word":"our world",
+                "forWord":"world",
+                "strength":0.134441
+             },
+             { 
+                "word":"first world",
+                "forWord":"world",
+                "strength":0.13289514
+             },
+             { 
+                "word":"nxt",
+                "forWord":"world",
+                "strength":0.1321331
+             },
+             { 
+                "word":"political world",
+                "forWord":"world",
+                "strength":0.1290191
+             },
+             { 
+                "word":"u-19",
+                "forWord":"world",
+                "strength":0.12814854
+             }
+          ]
+       },
+       { 
+          "labels":[ 
+             { 
+                "label":"war ii",
+                "type":"RIGHT"
+             },
+             { 
+                "label":"war",
+                "type":"RIGHT"
+             }
+          ],
+          "words":[ 
+             { 
+                "word":"entire world",
+                "forWord":"world",
+                "strength":0.25194672
+             },
+             { 
+                "word":"the first world",
+                "forWord":"world",
+                "strength":0.1654664
+             }
+          ]
+       },
+       { 
+          "labels":[ 
+             { 
+                "label":"the natural",
+                "type":"LEFT"
+             }
+          ],
+          "words":[ 
+             { 
+                "word":"world around",
+                "forWord":"world",
+                "strength":0.2175807
+             }
+          ]
+       },
+       { 
+          "labels":[ 
+             { 
+                "label":"heavyweight champion",
+                "type":"RIGHT"
+             },
+             { 
+                "label":"cup",
+                "type":"RIGHT"
+             }
+          ],
+          "words":[ 
+             { 
+                "word":"as the world",
+                "forWord":"world",
+                "strength":0.20642105
+             },
+             { 
+                "word":"before the world",
+                "forWord":"world",
+                "strength":0.2001146
+             },
+             { 
+                "word":"touring car",
+                "forWord":"world",
+                "strength":0.19383453
+             },
+             { 
+                "word":"for the world",
+                "forWord":"world",
+                "strength":0.18119909
+             },
+             { 
+                "word":"free world",
+                "forWord":"world",
+                "strength":0.15703045
+             },
+             { 
+                "word":"game world",
+                "forWord":"world",
+                "strength":0.15114039
+             },
+             { 
+                "word":"online world",
+                "forWord":"world",
+                "strength":0.14721839
+             },
+             { 
+                "word":"voyageurs",
+                "forWord":"world",
+                "strength":0.1468893
+             },
+             { 
+                "word":"future world",
+                "forWord":"world",
+                "strength":0.14140035
+             },
+             { 
+                "word":"against the world",
+                "forWord":"world",
+                "strength":0.14117879
+             },
+             { 
+                "word":"national road",
+                "forWord":"world",
+                "strength":0.13836758
+             },
+             { 
+                "word":"undisputed",
+                "forWord":"world",
+                "strength":0.13787855
+             },
+             { 
+                "word":"sports world",
+                "forWord":"world",
+                "strength":0.13209105
+             },
+             { 
+                "word":"stanley cup",
+                "forWord":"world",
+                "strength":0.12887606
+             }
+          ]
+       },
+       { 
+          "labels":[ 
+             { 
+                "label":"fast-paced",
+                "type":"LEFT"
+             }
+          ],
+          "words":[ 
+             { 
+                "word":"digital environment",
+                "forWord":"world",
+                "strength":0.20560272
+             },
+             { 
+                "word":"global capital markets",
+                "forWord":"world",
+                "strength":0.18124513
+             },
+             { 
+                "word":"globalised",
+                "forWord":"world",
+                "strength":0.17839998
+             },
+             { 
+                "word":"day and age",
+                "forWord":"world",
+                "strength":0.17512964
+             },
+             { 
+                "word":"digital era",
+                "forWord":"world",
+                "strength":0.1628632
+             },
+             { 
+                "word":"job market",
+                "forWord":"world",
+                "strength":0.16194032
+             },
+             { 
+                "word":"digital world",
+                "forWord":"world",
+                "strength":0.16003679
+             },
+             { 
+                "word":"global society",
+                "forWord":"world",
+                "strength":0.15770096
+             },
+             { 
+                "word":"free fly",
+                "forWord":"world",
+                "strength":0.15637815
+             },
+             { 
+                "word":"digital age",
+                "forWord":"world",
+                "strength":0.15059714
+             },
+             { 
+                "word":"medical world",
+                "forWord":"world",
+                "strength":0.14873576
+             },
+             { 
+                "word":"mobile world",
+                "forWord":"world",
+                "strength":0.14017767
+             },
+             { 
+                "word":"ultra-competitive",
+                "forWord":"world",
+                "strength":0.13392441
+             },
+             { 
+                "word":"modern world",
+                "forWord":"world",
+                "strength":0.13374843
+             },
+             { 
+                "word":"human world",
+                "forWord":"world",
+                "strength":0.13231505
+             },
+             { 
+                "word":"parlance",
+                "forWord":"world",
+                "strength":0.13189426
+             },
+             { 
+                "word":"big story",
+                "forWord":"world",
+                "strength":0.13054088
+             },
+             { 
+                "word":"news cycle",
+                "forWord":"world",
+                "strength":0.12844862
+             }
+          ]
+       }
+    ],
+    "topicalFilaments":[ 
+ 
+    ]
+ }
